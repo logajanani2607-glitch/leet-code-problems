@@ -1,6 +1,5 @@
 class Solution {
-public:
-    bool isPalindrome(int x) {
+    public boolean isPalindrome(int x) {
         
     }
-};
+}
